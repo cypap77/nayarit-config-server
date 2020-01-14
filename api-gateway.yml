@@ -1,0 +1,9 @@
+zuul:
+   prefix: /api
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+© 2020 GitHub, Inc.
