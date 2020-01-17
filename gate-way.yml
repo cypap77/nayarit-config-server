@@ -1,4 +1,4 @@
-name: gate-way
+gate-way
 zuul:
    prefix: /api
 
